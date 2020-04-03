@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1585837839 source:/home/bm7/Documents/Codeblocks/POO/Arme.cpp
+	"Arme.h"
+
+1585869412 /home/bm7/Documents/Codeblocks/POO/Arme.h
+	<string>
+	<iostream>
+
+1585869459 source:/home/bm7/Documents/Codeblocks/POO/main.cpp
+	<iostream>
+	"Personnage.h"
+
+1585869861 /home/bm7/Documents/Codeblocks/POO/Personnage.h
+	"Arme.h"
+	<iostream>
+	<string>
+
+1585869793 source:/home/bm7/Documents/Codeblocks/POO/Personnage.cpp
+	"Personnage.h"
+	<string>
+
+1585910577 source:/home/bm7/Documents/Codeblocks/POO/Duree.cpp
+	"Duree.h"
+
+1585910693 /home/bm7/Documents/Codeblocks/POO/Duree.h
+
